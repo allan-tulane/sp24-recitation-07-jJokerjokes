@@ -1,6 +1,6 @@
 # CMPS 2200 Recitation 10## Answers
 
-**Name:****____Charles Zhang_**
+**Name:____Charles Zhang_**
 **Name:**___Yundan Yang__
 
 
