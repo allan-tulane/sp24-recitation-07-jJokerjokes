@@ -24,3 +24,5 @@ Place all written answers from `recitation-07.md` here for easier grading.
 - 
 
 - **7)**
+
+- the work of the `reachable` function changes primarily because finding all neighbors of a node becomes a $O(n)$ operation, where $n$ is the number of nodes. You must check the entire row in the matrix to see which nodes are connected to the current node, resulting in $O(n)$ work per node, and since this check happens for every node, the total work in the worst case becomes $O(n^2)$. 
